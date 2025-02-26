@@ -52,7 +52,6 @@ As part of our mission, we're building **a strong team of developers**, and we'r
 📅 **Start Date:** First week of March (3-month program)  
 ⏳ **Duration:** Flexible, ongoing participation  
 💰 **Cost:**  
-- $10 per 1.5-hour session  
 - $25 per week (3 sessions per week, 2-week minimum)  
 📍 **Remote Format:**  
 - Live Google Meet sessions (recordings available)  
