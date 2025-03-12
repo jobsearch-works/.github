@@ -1,10 +1,12 @@
 # 🌟 JobSearch.Works – AI-Powered Job Search Agent 🚀  
 
 **JobSearch.Works** is a pioneering startup dedicated to revolutionizing the job search and application process with AI-powered automation. Our mission is to help job seekers **land jobs faster** by leveraging AI to:
-✅ **Match job opportunities** from multiple sources  
-✅ **Generate AI-powered resumes & cover letters**  
+
+✅ **Match job opportunities** from multiple sources
+✅ **Generate vacancy-tailored resumes & cover letters**  
 ✅ **Answer job application questions automatically**  
 ✅ **Apply for jobs on behalf of users**  
+✅ **Grow user knowledgebase and use it to answer all questions**  
 ✅ **Monitor and manage job-related emails for timely actions**  
 
 Our goal is to simplify and streamline the job search experience, ensuring job seekers **maximize their opportunities with minimal effort**.  
