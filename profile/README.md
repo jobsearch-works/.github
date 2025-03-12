@@ -82,10 +82,9 @@ Yes, you will be participating in our core team development process working on t
 🎯 **Flexibility:** No lock-in, drop out anytime or take up to 2 weeks off  
 
 ### 🏢 Team Structure  
-- **Founder/Architect/Product Owner/Senior Dev** – Leads vision, architecture, and core development  
+- **Founder/Architect/Product Owner** – Leads vision, architecture, and core development  
 - **Dev Leads** – Hosts meetings, develops leadership skills, and contributes to the product  
-- **Devs** – Individual contributors focused on feature development  
-- **Code Campers** – Junior-mid devs learning both **technical and team collaboration skills**  
+- **Code Campers** – Junior devs learning both **technical and team collaboration skills**  
 
 ### 🚀 Growth Opportunities  
 You can **progress to higher positions** based purely on **merit and contribution**, not prior experience. **The more time and effort you put in, the faster you grow**.  
