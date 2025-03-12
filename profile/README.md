@@ -61,7 +61,7 @@ You will be in charge of junior devs while being hands-on yourself! You will hav
 
 ---
 
-## 🎓 Internship (CodeCamp) 🚀  
+## 🎓 Interns (CodeCamp members) 🚀  
 
 Our **CodeCamp** is designed to help **junior developers** gain hands-on experience in real-world AI and web development while helping us build our product.
 Yes, you will be participating in our core team development process working on tasks suitable to your level and according to your interests.
