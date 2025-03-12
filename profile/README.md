@@ -32,6 +32,13 @@ You will be in charge of junior devs while being hands-on yourself! You will hav
 ✅ **Learn how to build a start-up** How to find like-minded people, energize, mobilise and steam ahead.
 ✅ **Work in an Agile development team** Socialize and build your professional network further.
 
+### 📌 Be ready to commit
+✅ **3 meetings per week**  
+✅ **Be responsive on Discord**  
+✅ **Code reviews & mentoring**  
+✅ **Help with collaboration & teamwork**  
+✅ **Help setting & achieving development objectives**  
+
 ---
 
 ## 🎓 Internship (CodeCamp) 🚀  
