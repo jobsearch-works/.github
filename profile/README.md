@@ -9,20 +9,34 @@
 ✅ **Grow user knowledgebase and use it to answer all questions**  
 ✅ **Monitor and manage job-related emails for timely actions**  
 
-Our goal is to simplify and streamline the job search experience, ensuring job seekers **maximize their opportunities with minimal effort**.  
+Our goal is to simplify and streamline the job search and application experience, ensuring job seekers **maximize their opportunities with minimal effort**.  
 
 🚀 We are currently an **unfunded startup**, but we're building fast. Our focus for the next **3 months** (March to May, 2025) is to:  
 - Complete the **beta version** of our product  
 - Get our **first paid users**  
 - Secure **funding and officially launch as a company**  
 
-As part of our mission, we're building **a strong team of developers**, and we're offering an opportunity for junior-to-mid-level developers to grow their skills while working on a **real-world AI-powered product**.  
+As part of our mission, we're building **a strong team of developers and data scientists**, and we're offering an opportunity for junior-to-mid-level developers to grow their skills while working on a **real-world AI-powered product**.  
 
 ---
 
-## 🎓 CodeCamp 🚀  
+## 🎓 Team Lead Volunteers 🚀  
 
-Our **CodeCamp** is designed to help **junior-to-mid developers** gain hands-on experience in real-world AI and web development while helping us build our product.
+If you have ~3 years of software development or Data science experience with LLM, you can be considered a Dev/DS lead and join as a volunteer.
+
+You will be in charge of junior devs while being hands-on yourself! You will have to lead by example and help others.
+
+💡 **Join us if you want to:**  
+✅ **Be a vital part of our start-up:** Early impactors will have preferencial seats in the board and early employment opportunity.
+✅ **Become a leader** Be in charge of others and learn more by helping others.
+✅ **Learn how to build a start-up** How to find like-minded people, energize, mobilise and steam ahead.
+✅ **Work in an Agile development team** Socialize and build your professional network further.
+
+---
+
+## 🎓 Internship (CodeCamp) 🚀  
+
+Our **CodeCamp** is designed to help **junior developers** gain hands-on experience in real-world AI and web development while helping us build our product.
 Yes, you will be participating in our core team development process working on tasks suitable to your level and according to your interests.
 
 💡 **Join us if you want to:**  
