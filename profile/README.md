@@ -18,6 +18,24 @@ Our goal is to simplify and streamline the job search and application experience
 
 As part of our mission, we're building **a strong team of developers and data scientists**, and we're offering an opportunity for junior-to-mid-level developers to grow their skills while working on a **real-world AI-powered product**.  
 
+# About our Product
+
+We are in AI-powered agent space. Some things we are building ourselves. Some we will use off the shelf. However, in the eyes of our customers we will be the magic box that does it. Be believe that job application should be as simple as a swipe in a dating app. If you like a job with a single swipe it should apply for it with the best resume and all answers to all questions. 
+
+### Modules:
+- Internal tools that will work in a human-supervised mode.
+- Client-facing website
+- Client-side LLM interfaces
+- Browser-based automations
+- Code self-improving and testing framework
+
+### 3-tier fall-back system:
+1. Heuristic approach (solve the problem with previously generated/cached code)
+2. If 1 fails, do it using LLM (preferably local, otherwise via API)
+3. If 2 fails, let human fix it.
+
+This strategy will help us get to paid users as soon as possible. As soon as we automate 80% of actions, we can start executing them for end users.
+
 ---
 
 ## 🎓 Team Lead Volunteers 🚀  
