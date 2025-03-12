@@ -38,6 +38,8 @@ This strategy will help us get to paid users as soon as possible. As soon as we 
 
 ---
 
+# Who we need
+
 ## 🎓 Team Lead Volunteers 🚀  
 
 If you have ~3 years of software development or Data science experience with LLM, you can be considered a Dev/DS lead and join as a volunteer.
@@ -98,6 +100,8 @@ Yes, you will be participating in our core team development process working on t
 📍 **Remote Format:**  
 - Live Google Meet sessions (recordings available)  
 🎯 **Flexibility:** No lock-in, drop out anytime or take up to 2 weeks off  
+
+--- Team Structure & Future
 
 ### 🏢 Team Structure  
 - **Founder/Architect/Product Owner** – Leads vision, architecture, and core development  
