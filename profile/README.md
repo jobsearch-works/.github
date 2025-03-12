@@ -95,10 +95,8 @@ Yes, you will be participating in our core team development process working on t
 ### 🏗️ Program Details  
 📅 **Start Date:** First week of March (3-month program)  
 ⏳ **Time Commitment:** Please allocate at least 10 hours per week 
-💰 **Cost:**  
-- $25 per week
-📍 **Remote Format:**  
-- Live Google Meet sessions (recordings available)  
+💰 **Cost:** $25 per week
+📍 **Remote Format:** Daily Live Google Meet sessions + Discord comms.
 🎯 **Flexibility:** No lock-in, drop out anytime or take up to 2 weeks off  
 
 --- Team Structure & Future
