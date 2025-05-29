@@ -93,8 +93,8 @@ Yes, you will be participating in our core team development process working on t
 ✅ **Help with refactoring, coding templates, & best practices**  
 
 ### 🏗️ Program Details  
-📅 **Start Date:** First week of March (3-month program)  
-⏳ **Time Commitment:** Please allocate at least 10 hours per week 
+📅 **Schedule:** 3-month program
+⏳ **Time Commitment:** 10 hours per week (minimum 8 weeks to get certification/referrals)
 💰 **Cost:** $25 per week
 📍 **Remote Format:** Daily Live Google Meet sessions + Discord comms.
 🎯 **Flexibility:** No lock-in, drop out anytime or take up to 2 weeks off  
